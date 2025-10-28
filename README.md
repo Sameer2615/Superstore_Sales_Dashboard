@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# Superstore Sales Dashboard
 📊 Superstore Sales Dashboard 📦
 
 This project was developed during my internship to analyze **E-commerce sales data** using Power BI.  
